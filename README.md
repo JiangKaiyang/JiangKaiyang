@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JiangKaiyang
+- 👋 Hi, I’m @JiangKaiyang,from Anhui,China.
 - 👀 I’m interested in apps in Android and Windows.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on nothing.Ahahahaha!
